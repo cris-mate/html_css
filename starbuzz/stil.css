@@ -1,13 +1,35 @@
 body {
-          background-color: tan;
+          /*background-color: rgb(90%, 60%, 0%);*/
           font-family: sans-serif;
           margin-left: 10%;
-          font-size: 14px;
+          font-size: 12px;
+        }
+h1{
+          font-size: 150%;
         }
 h2, h3 {
   color: green;
   font-family: serif;
 }
+
+#mission {
+  line-height: 1.6em;
+  border-style: solid;
+  border-width: thin;
+  border-radius: 20px;
+  border-color: brown;
+  padding: 1%;
+  margin-left: 25%;
+  margin-right: 15%;
+
+}
+
+#ceai {
+  border-style: dotted;
+  border-color: green;
+
+}
+
 .denumire {
   color: red;
 }
@@ -19,9 +41,4 @@ h2, h3 {
 
 .coffee {
   border-color: brown;
-}
-
-#ceai {
-  border-color: green;
-  border-style: dotted;
 }
