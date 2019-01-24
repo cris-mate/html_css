@@ -10,3 +10,17 @@ h2, h3 {
 .denumire{
   color: red;
 }
+
+.produs {
+  border-width: medium;
+  border-style: solid;
+}
+
+.coffee {
+  border-color: brown;
+}
+
+#ceai {
+  border-color: green;
+  border-style: dotted;
+}
